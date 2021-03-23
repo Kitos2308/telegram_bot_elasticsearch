@@ -1,0 +1,50 @@
+
+[[date                    2020-12-16 19:48:03.122000
+level                                        DEBUG
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                         GET
+api_route                   /api/v1/onpass/confirm
+phone                                 +79263712596
+mistake                                start handl
+Name: 17, dtype: object, date                    2020-12-16 19:48:03.124000
+level                                        DEBUG
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                         GET
+api_route                  /api/v1/onpass/register
+phone                                 +79263712596
+mistake               запрашиваем airport_code из 
+Name: 18, dtype: object], [date                    2020-12-16 19:48:03.126000
+level                                        DEBUG
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                         GET
+api_route                     /api/v1/onpass/login
+phone                                 +79263712596
+mistake                         получен airport_co
+Name: 19, dtype: object, date                    2020-12-16 19:48:03.152000
+level                                        DEBUG
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                         GET
+api_route                   /api/v1/onpass/confirm
+phone                                 +79263712596
+mistake                                получаем js
+Name: 20, dtype: object], [date                    2020-12-16 19:48:02.857000
+level                                         INFO
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                        POST
+api_route                            /api/v1/login
+phone                                         None
+mistake                                        NaN
+Name: 15, dtype: object, date                    2020-12-16 19:48:02.858000
+level                                         INFO
+ip_address                           178.176.72.89
+sid           ed557f0e-4f5f-42b4-ac42-cdbeef0cda84
+method                                        POST
+api_route                         /api/v1/register
+phone                                         None
+mistake                                   middlewa
+Name: 16, dtype: object]]

@@ -1,0 +1,181 @@
+
+(1346, date                    2020-12-21 15:24:03.600000
+level                                     CRITICAL
+ip_address                             178.71.5.25
+sid           e992046f-e32f-4c73-9d68-8fdf65b1ab1b
+method                                         GET
+api_route           /api/v1/onpass/pointsInAirport
+phone                                 +79992473234
+mistake               запрашиваем airport_code из 
+Name: 1346, dtype: object)
+======================================
+(2643, date                    2020-12-21 22:20:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                          /api/v1/confirm
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2643, dtype: object)
+======================================
+(2644, date                    2020-12-21 22:22:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                         /api/v1/register
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2644, dtype: object)
+======================================
+(2645, date                    2020-12-21 22:24:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                          /api/v1/confirm
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2645, dtype: object)
+======================================
+(2646, date                    2020-12-21 22:25:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                         /api/v1/register
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2646, dtype: object)
+======================================
+(2647, date                    2020-12-21 22:26:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                          /api/v1/confirm
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2647, dtype: object)
+======================================
+(2649, date                    2020-12-21 22:28:31.604000
+level                                     CRITICAL
+ip_address                         178.252.127.205
+sid           5ae1376f-9be5-408d-9bfb-380c215249e6
+method                                        POST
+api_route                          /api/v1/confirm
+phone                                 +79538909315
+mistake                                   middlewa
+Name: 2649, dtype: object)
+======================================
+(2651, date                                 2020-12-24 18:10:47.586000
+level                                                  CRITICAL
+ip_address                                          178.71.5.25
+sid                                                        None
+method                                                      GET
+api_route                                       /api/v1/profile
+phone                                                      None
+mistake       Исключение в have_ip_in_blacklist (ip=178.71.5.25
+Name: 2651, dtype: object)
+======================================
+(2652, date          2020-12-24 18:36:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                    auth_middlewa
+Name: 2652, dtype: object)
+======================================
+(2653, date          2020-12-25 18:36:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                    auth_middlewa
+Name: 2653, dtype: object)
+======================================
+(2654, date          2020-12-26 18:36:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2654, dtype: object)
+======================================
+(2655, date          2021-12-27 18:38:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2655, dtype: object)
+======================================
+(2656, date          2021-12-27 18:40:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2656, dtype: object)
+======================================
+(2657, date          2020-12-28 18:45:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2657, dtype: object)
+======================================
+(2658, date          2020-12-28 18:47:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2658, dtype: object)
+======================================
+(2659, date          2020-12-28 18:47:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2659, dtype: object)
+======================================
+(2660, date          2020-12-28 18:47:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2660, dtype: object)
+======================================
+(2661, date          2020-12-28 18:47:51.347000
+level                           CRITICAL
+ip_address                 149.154.161.2
+sid                                 None
+method                               GET
+api_route                    /api/v1/geo
+phone                               None
+mistake                   auth_middlewar
+Name: 2661, dtype: object)
+======================================
