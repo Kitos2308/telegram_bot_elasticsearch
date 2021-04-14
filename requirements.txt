@@ -1,6 +1,7 @@
-aiogram==2.11.2
+aiogram
 aiohttp==3.7.3
 asyncio==3.4.3
 numpy==1.19.4
 pandas==1.1.5
 requests
+elasticsearch

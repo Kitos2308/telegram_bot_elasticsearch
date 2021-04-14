@@ -18,6 +18,7 @@ def connection_db(username_es,pass_es):
 
 
 def init_microservices(es):
+    # es.indices.delete(index='exclude_analytic')
     list_name = get_name_indices(es)
     cnt=0
     for name in list_name:
@@ -502,7 +503,7 @@ def get_last_time(index, es):
 def get_name_indices(es):
     list=[]
     for index in es.indices.get('*'):
-        print(index)
+        # print(index)
         s=index.find(".")
 
         if s == -1:
